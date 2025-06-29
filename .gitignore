@@ -1,0 +1,7 @@
+# Simple .gitignore for Maven/Spring Boot
+/target/
+*.iml
+.idea/
+*.log
+*.class
+.DS_Store
